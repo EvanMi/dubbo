@@ -1,0 +1,2 @@
+rest=org.apache.dubbo.rpc.protocol.rest.RestProtocol
+srest=org.apache.dubbo.rpc.protocol.rest.UnsafeTLSRestProtocol
